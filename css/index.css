@@ -109,7 +109,7 @@ h3 {
 }
 
 .price> span:last-child {
-    color: var(--NeutralGrayishBlue);
+    color: var(--NeutralLightGray);
 }
 
 
